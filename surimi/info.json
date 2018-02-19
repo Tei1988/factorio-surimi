@@ -1,0 +1,11 @@
+{
+   "name": "surimi",
+   "version": "0.0.1",
+   "title": "Surimi",
+   "author": "Tei1988",
+   "contact": "tei1988@grifola.xyz",
+   "homepage": "",
+   "description": "Bring surimi's light to the devastated world.",
+   "dependencies": ["base >= 0.15"],
+   "factorio_version":"0.15"
+}
