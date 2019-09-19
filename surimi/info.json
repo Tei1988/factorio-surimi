@@ -4,8 +4,8 @@
    "title": "Surimi",
    "author": "Tei1988",
    "contact": "tei1988@grifola.xyz",
-   "homepage": "",
+   "homepage": "https://github.com/Tei1988/factorio-surimi",
    "description": "Bring surimi's light to the devastated world.",
-   "dependencies": ["base >= 0.15"],
-   "factorio_version":"0.15"
+   "dependencies": ["base >= 0.17"],
+   "factorio_version":"0.17"
 }
